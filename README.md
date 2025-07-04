@@ -64,7 +64,7 @@ This project is a movie recommendation system that uses natural language process
    streamlit run app.py
    ```
 
-4. **Open your browser** and go to `http://localhost:8501`
+4. **Open your browser** and go to `[http://localhost:8501](https://netflix-movie-recommendation-systemm.streamlit.app/)`
 
 ## 📁 Project Structure
 
@@ -75,9 +75,6 @@ This project is a movie recommendation system that uses natural language process
 - `tmdb_5000_movies.csv`: TMDB movies dataset (source data)
 - `tmdb_5000_credits.csv`: Movie credits dataset (source data)
 
-## 🖼️ Screenshots
-
-*[Insert screenshots of your application here]*
 
 ## 🔮 Future Improvements
 
