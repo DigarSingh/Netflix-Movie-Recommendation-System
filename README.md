@@ -1,8 +1,8 @@
-# 🎬 Netflix Movie Recommender System
+# 🎬 Netflix Movie Recommendation System
 
 A content-based movie recommendation system that suggests similar movies based on your preferences, built with Python and Streamlit.
 
-![Netflix Movie Recommender](https://img.shields.io/badge/Netflix-Movie%20Recommender-red)
+![Netflix Movie Recommendation](https://img.shields.io/badge/Netflix-Movie%20Recommender-red)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-blue)
 ![Machine Learning](https://img.shields.io/badge/ML-Content--based%20Filtering-green)
@@ -48,8 +48,8 @@ This project is a movie recommendation system that uses natural language process
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/netflix-movie-recommender.git
-   cd netflix-movie-recommender
+   git clone https://github.com/DigarSingh/netflix-movie-recommendation-system.git
+   cd netflix-movie-recommendation-system
    ```
 
 2. **Install dependencies**:
@@ -64,7 +64,7 @@ This project is a movie recommendation system that uses natural language process
    streamlit run app.py
    ```
 
-4. **Open your browser** and go to `http://localhost:8501`
+4. **Open your browser** and go to `https://netflix-movie-recommendation-systemm.streamlit.app/`
 
 ## 📁 Project Structure
 
@@ -75,9 +75,6 @@ This project is a movie recommendation system that uses natural language process
 - `tmdb_5000_movies.csv`: TMDB movies dataset (source data)
 - `tmdb_5000_credits.csv`: Movie credits dataset (source data)
 
-## 🖼️ Screenshots
-
-*[Insert screenshots of your application here]*
 
 ## 🔮 Future Improvements
 
