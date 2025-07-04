@@ -64,7 +64,7 @@ This project is a movie recommendation system that uses natural language process
    streamlit run app.py
    ```
 
-4. **Open your browser** and go to `[http://localhost:8501](https://netflix-movie-recommendation-systemm.streamlit.app/)`
+4. **Open your browser** and go to `[https://netflix-movie-recommendation-systemm.streamlit.app/]`
 
 ## 📁 Project Structure
 
