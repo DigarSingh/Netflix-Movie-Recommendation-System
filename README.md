@@ -48,8 +48,8 @@ This project is a movie recommendation system that uses natural language process
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/netflix-movie-recommender.git
-   cd netflix-movie-recommender
+   git clone https://github.com/DigarSingh/netflix-movie-recommendation-system.git
+   cd netflix-movie-recommendation-system
    ```
 
 2. **Install dependencies**:
@@ -64,7 +64,7 @@ This project is a movie recommendation system that uses natural language process
    streamlit run app.py
    ```
 
-4. **Open your browser** and go to `[https://netflix-movie-recommendation-systemm.streamlit.app/]`
+4. **Open your browser** and go to `https://netflix-movie-recommendation-systemm.streamlit.app/`
 
 ## 📁 Project Structure
 
