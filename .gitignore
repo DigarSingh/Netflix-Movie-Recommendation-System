@@ -1,0 +1,55 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Large files - consider using Git LFS for these if needed
+# Uncomment the lines below if you don't want to track these with Git
+# *.pkl
+# similarity.pkl
+# movies_dict.pkl
+
+# Logs
+*.log
+
+# Local development settings
+local_settings.py
+
+# Database files
+*.db
+*.sqlite3
+
+# Media files that might be large
+*.mp4
+*.mov
+*.avi
+
+# Temporary files
+*.tmp
