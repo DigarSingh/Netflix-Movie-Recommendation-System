@@ -1,8 +1,8 @@
-# 🎬 Netflix Movie Recommender System
+# 🎬 Netflix Movie Recommendation System
 
 A content-based movie recommendation system that suggests similar movies based on your preferences, built with Python and Streamlit.
 
-![Netflix Movie Recommender](https://img.shields.io/badge/Netflix-Movie%20Recommender-red)
+![Netflix Movie Recommendation](https://img.shields.io/badge/Netflix-Movie%20Recommender-red)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-blue)
 ![Machine Learning](https://img.shields.io/badge/ML-Content--based%20Filtering-green)
